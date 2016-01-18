@@ -8,6 +8,7 @@ import java.io.*;
 import java.util.Random;
 import java.math.*;
 
+
 public class MCP_TTAS {
 	static int No_of_threads;
 	static int No_of_cores;
